@@ -27,3 +27,6 @@ Another skill I want to focus on is teamwork and collaboration. Most software en
 ## Future experiences and goals
 
 Looking beyond the classroom, I want to pursue internships and work on real-world applications. I believe that internships are one of the most important opportunities because they provide first-hand experience of how professional teams operate and how software is developed on a large scale. I think that real-world software will feel very different from classroom assignments, because they are used by actual people and have a practical impact, which makes the work more meaningful to me. I am particularly interested in combining my computer science degree with my minor in marine biology. This combination is what excites me the most about my future in computer science. Right now, my dream job would be to work as a software engineer for a program like Nautilus, since my main interest in marine biology is deep-sea life. Being able to apply software engineering in a way that supports marine exploration or deep-sea research would be the perfect way to bring together my major, minor, and personal interests.
+
+
+*Note: I used ChatGPT to help organize my drafts and suggest edits.*
