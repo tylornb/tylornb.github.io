@@ -21,10 +21,6 @@
     {
       "name": "Languages",
       "keywords": [ "Java", "JavaScript", "TypeScript" ]
-    },
-    {
-      "name": ,
-      "keywords": [  ]
     }
   ],
   "education": [
@@ -32,7 +28,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "Fall 2021",
+      "startDate": "2021",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,7 +39,7 @@
       "company": "Times Supermarket",
       "position": "Pastry Specialist",
       "website": "",
-      "startDate": "October 2024",
+      "startDate": "2024",
       "endDate": "Present",
       "summary": "Team-based production role.",
       "highlights": [
@@ -53,31 +49,7 @@
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+    
   ],
   "awards": [
   ],
