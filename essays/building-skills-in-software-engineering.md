@@ -12,7 +12,6 @@ labels:
   - Marine Biology
   - Internships
 ---
-# Building Skills in Software Engineering
 
 
 ## Interests/Intro
