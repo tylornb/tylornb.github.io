@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/stock_pc_parts_macro.jpg
 title: "Custom PC Build"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
@@ -9,7 +10,7 @@ labels:
   - Hardware
   - Independent Project
   - PC Assembly
-image: /img/stock_pc_parts_macro.jpg
+summary: "Built a custom PC for coursework and personal use."
 ---
 
 # Custom PC Build
