@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
 title: "Hotel Reservation System"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
@@ -13,7 +13,6 @@ labels:
 image: /img/hotel_project_thumbnail.jpg
 ---
 
-# Hotel Reservation System
 
 ## Project Overview
 As a part of my ICS 211 coursework under Professor Blanca Polo in Summer 2025, I created a Hotel Reservation System in Java. This project simulated a hotel using a two-dimensional array of `Room` objects to represent the management of the rooms. Each room had an assigned type, either Handicap, Single, Double, Triple, or Deluxe, along with a nightly rate and occupancy status. The project allowed guests to book and vacate rooms, display occupied and vacant rooms, and keep a transaction log that is saved to a file.
