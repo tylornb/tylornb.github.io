@@ -12,6 +12,8 @@ labels:
   - Marine Biology
   - Internships
 ---
+# Building Skills in Software Engineering
+
 
 ## Interests/Intro
 At first, I was drawn to software engineering because it seemed like a stable, in-demand career path that paid well. At the time, I wasn’t very passionate about the field itself. However, I have always been surrounded by computers and technology since I was little, and I’ve always been curious about how they work - software included. Over time, I’ve found that there are parts of software engineering that I genuinely enjoy. Working on code from scratch and seeing a functioning piece of software that I made is extremely satisfying, especially once I have all the knowledge to complete it.
