@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: project
+type: project
 title: "Custom PC Build"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
