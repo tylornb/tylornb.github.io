@@ -10,7 +10,7 @@ labels:
   - Coursework
   - 2D Arrays
   - Exception Handling
-image: /img/hotel_project_thumbnail.jpg
+image: img/hotel_project_thumbnail.jpg
 ---
 
 
