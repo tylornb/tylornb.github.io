@@ -4,7 +4,7 @@ type: essay
 title: "Custom PC Build"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
-published: false
+published: true
 labels:
   - Hardware
   - Independent Project
