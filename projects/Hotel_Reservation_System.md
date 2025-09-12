@@ -26,4 +26,10 @@ My role was to take the scaffolding that Professor Polo provided us (namely the 
 ## Lessons Learned
 From this project, I gained practical experience with things such as 2D arrays, custom exceptions, and input validation. This project also reinforced the importance of writing programs in a clear structure. A habit that this project enforced was writing detailed comments and method headers to keep everything understandable. These practices helped immensely when I advanced to the later BookList Application, where things like recursion and GUIs require even more careful documentation. Overall, the Hotel Project provided a good foundation in structured programming that allowed me to successfully program more advanced applications.
 
+
+## Source Code
+
+The full source code is available on [GitHub](https://github.com/tylornb/hotel-booking-system).
+
+
 *Note: I used ChatGPT to help organize my drafts and suggest edits.*
