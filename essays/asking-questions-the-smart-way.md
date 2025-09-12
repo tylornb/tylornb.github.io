@@ -10,6 +10,8 @@ labels:
   - Stack-Overflow
   - Professional-Skills
 ---
+# Asking Questions That Get Answers
+
 
 ## Introduction
 One of the most important skills for software engineers is communication. This is extremely apparent when asking for help. As Eric Raymond emphasizes in *How to Ask Questions the Smart Way*, the quality of an answer is directly related to the way a question is asked. In communities such as Stack Overflow, volunteers donate their time and expertise, so asking questions the smart way is essential. Smart questions are well-researched, respectful to the community's time, and precise. Not-so-smart questions lack preparation and are much less likely to receive a quality answer.
