@@ -13,7 +13,6 @@ labels:
 summary: "Built a custom PC for coursework and personal use."
 ---
 
-# Custom PC Build
 
 ## Project Overview
 <img src="/img/Custom_PC_Build_Nadamoto_Beller,Tylor.jpg" alt="Custom PC Build" width="400"/>
