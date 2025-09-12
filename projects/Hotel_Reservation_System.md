@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/hotel_project_thumbnail.jpg
 title: "Hotel Reservation System"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-11
@@ -10,7 +11,7 @@ labels:
   - Coursework
   - 2D Arrays
   - Exception Handling
-image: img/hotel_project_thumbnail.jpg
+summary: "A Java program simulating a hotel system using arrays and custom exceptions."
 ---
 
 
