@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "Asking Questions That Get Answers"
-# All dates must be YYYY-MM-DD format!
 date: 2025-09-11
 published: true
 labels:
