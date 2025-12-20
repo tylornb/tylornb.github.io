@@ -61,5 +61,5 @@ This project also taught me how to work as a team in software development. GitHu
 
 The full source code for Rainbow Recipes is available on GitHub through the project organization page:
 
-[Rainbow Recipes GitHub Organization]((https://rainbow-recipes.github.io/))
+[Rainbow Recipes GitHub Organization](https://rainbow-recipes.github.io/)
 
