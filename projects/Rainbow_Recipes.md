@@ -55,3 +55,11 @@ Users begin on the guest landing page, where they can browse recipes or explore 
 Working on Rainbow Recipes taught me a large amount about real, team-based software engineering. I became more familiar with frameworks like Next.js and Prisma, and learned how much smoother development is when components are made reusable across the application. Implementing search, filter, and sorting logic also helped me think through data flow between the UI and database.
 
 This project also taught me how to work as a team in software development. GitHub issues, branches, and pull requests made it much easier to be organized and to avoid conflicts. 
+
+
+## Source Code
+
+The full source code for Rainbow Recipes is available on GitHub through the project organization page:
+
+[Rainbow Recipes GitHub Organization]((https://rainbow-recipes.github.io/))
+
