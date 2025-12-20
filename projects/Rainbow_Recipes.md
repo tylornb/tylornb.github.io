@@ -40,15 +40,15 @@ These features helped improve the navigation, readability, and consistency of th
 ## Application Flow
 Users begin on the guest landing page, where they can browse recipes or explore vendors without signing in. Guest users can search, filter, and sort recipes and view recipe details such as cost, prep time, and favorite counts. Signed-in users gain access to additional features such as saving favorites, publishing recipes, and accessing a customized navigation experience. Vendors can also be explored through an interactive map that displays store locations. Vendors manage their storefronts and inventory through dedicated pages, while administrators manage users, tags, and other application data through an admin dashboard.
 
-![Guest landing page](/img/rainbow-recipes/rainbow-recipes-guest-landing.png)
+<img src="/img/rainbow-recipes/rainbow-recipes-guest-landing.png" alt="Guest landing page" style="max-width:100%; height:auto; display:block; margin: 1.5em auto;">
 
-![Recipes browsing page](/img/rainbow-recipes/rainbow-recipes-guest-recipes-page.png)
+<img src="/img/rainbow-recipes/rainbow-recipes-guest-recipes-page.png" alt="Recipes browsing page" style="max-width:100%; height:auto; display:block; margin: 1.5em auto;">
 
-![Vendor map view](/img/rainbow-recipes/rainbow-recipes-vendor-map.png)
+<img src="/img/rainbow-recipes/rainbow-recipes-vendor-map.png" alt="Vendor map view" style="max-width:100%; height:auto; display:block; margin: 1.5em auto;">
 
-![Vendor store management page](/img/rainbow-recipes/rainbow-recipes-vendor-mystore-page.png)
+<img src="/img/rainbow-recipes/rainbow-recipes-vendor-mystore-page.png" alt="Vendor store management page" style="max-width:100%; height:auto; display:block; margin: 1.5em auto;">
 
-![Admin dashboard](/img/rainbow-recipes/rainbow-recipes-admin-dashboard.png)
+<img src="/img/rainbow-recipes/rainbow-recipes-admin-dashboard.png" alt="Admin dashboard" style="max-width:100%; height:auto; display:block; margin: 1.5em auto;">
 
 ## Lessons Learned
 
