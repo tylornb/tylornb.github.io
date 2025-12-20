@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/rainbow-recipes/rainbow-recipes-guest-landing.png
+image: img/rainbow-recipes/Rainbow-Recipes-Square-Guest-Landing.PNG
 title: "Rainbow Recipes"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-10
